@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTimeoutLaunch", "WinTimeoutLaunch\WinTimeoutLaunch.csproj", "{9C692205-2D9C-466F-AAEA-43B844B9C3BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C692205-2D9C-466F-AAEA-43B844B9C3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C692205-2D9C-466F-AAEA-43B844B9C3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C692205-2D9C-466F-AAEA-43B844B9C3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C692205-2D9C-466F-AAEA-43B844B9C3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84DA20E0-E529-4E4E-88DD-B65A1E279E70}
+	EndGlobalSection
+EndGlobal
